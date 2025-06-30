@@ -14,7 +14,7 @@ ox_inventory
 
 Just drag and drop and reconfig stuff if you need and start the resource in the resource cfg after the dependancys listed above.
 
-Preview: 
+Preview: https://youtu.be/Hy1aEEq5gsU
 
 Discord: https://discord.gg/tu3WSFD4QT
 
